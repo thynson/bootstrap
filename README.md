@@ -1,3 +1,15 @@
+# Component version of the full bootstrap framework
+
+## Installation
+
+Follow instructions from the [Component framework](https://github.com/component)
+
+## Usage
+
+var $ = require('bootstrap');
+
+
+
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
