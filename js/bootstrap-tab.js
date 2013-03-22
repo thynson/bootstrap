@@ -130,4 +130,4 @@
     $(this).tab('show')
   })
 
-}(window.jQuery);
+}(require('jquery'));

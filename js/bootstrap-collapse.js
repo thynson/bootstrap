@@ -153,4 +153,4 @@
     $(target).collapse(option)
   })
 
-}(window.jQuery);
+}(require('jquery'));

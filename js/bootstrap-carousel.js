@@ -173,4 +173,4 @@
     e.preventDefault()
   })
 
-}(window.jQuery);
+}(require('jquery'));

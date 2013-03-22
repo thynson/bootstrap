@@ -91,4 +91,4 @@
     $btn.button('toggle')
   })
 
-}(window.jQuery);
+}(require('jquery'));

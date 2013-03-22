@@ -307,4 +307,4 @@
     $this.typeahead($this.data())
   })
 
-}(window.jQuery);
+}(require('jquery'));

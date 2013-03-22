@@ -273,4 +273,4 @@
   , html: false
   }
 
-}(window.jQuery);
+}(require('jquery'));

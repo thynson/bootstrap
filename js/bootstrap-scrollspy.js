@@ -148,4 +148,4 @@
     })
   })
 
-}(window.jQuery);
+}(require('jquery'));
